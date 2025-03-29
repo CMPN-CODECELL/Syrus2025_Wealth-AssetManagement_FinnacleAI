@@ -8,5 +8,11 @@ Created RAGs
 
 29/03/25
 Debugged workflows
-Configured RAGs
+Configuring RAGs
+
+12:11 - 
+Rag Containers configuration
+Workflow debugging
+PPT presentation
+Testing
 
