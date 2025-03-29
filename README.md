@@ -19,3 +19,7 @@ screenshots doc file updated
 video presentation uploaded
 
 13:50 - PROJECT READY TO EXPORT BUT CREDITS EXHAUSTED
+
+
+https://github.com/user-attachments/assets/e0e53aaa-ee9c-4a55-98bc-a1762b58b429
+
