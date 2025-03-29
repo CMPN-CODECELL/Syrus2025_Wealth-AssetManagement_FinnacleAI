@@ -16,3 +16,6 @@ Workflow debugging
 PPT presentation
 Testing
 screenshots doc file updated
+video presentation uploaded
+
+13:50 - PROJECT READY TO EXPORT BUT CREDITS EXHAUSTED
